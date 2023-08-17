@@ -1,9 +1,3 @@
-<p align="center">
-<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
-</p>
-<h1 align="center">C4_deployment-1<h1> 
-
-Demonstrate your ability to run a Jenkins build and manually deploy to Elastic Beanstalk.
 
 **Create Github Personal Access Token**
 1. Github 'Settings'
@@ -25,9 +19,9 @@ Demonstrate your ability to run a Jenkins build and manually deploy to Elastic B
 7. In the Repository URL field, add your repo's URL.
 8. Click on the 'Add' button, click 'Jenkins'
 9. Add Credentials
-   ![image](https://github.com/elmorenox/c4_deployment-1/assets/8043346/3bc981fc-d91c-4839-915d-04589ada5b52)
    - Add your Github Username
    - Create a password
+        ![image](https://github.com/elmorenox/c4_deployment-1/assets/8043346/3bc981fc-d91c-4839-915d-04589ada5b52)
   
 Create IAMRole
 https://scribehow.com/shared/How_to_Create_an_AWS_IAM_Role_for_Elastic_Beanstalk_and_EC2__kTg4B7zRRxCp-aYTJc-WLg
